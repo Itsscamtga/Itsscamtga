@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Itsscamtga&fontSize=60&fontColor=39FF14&fontAlignY=35&animation=fadeIn&desc=Python%20Developer%20%7C%20Automation%20%26%20Bot%20Engineer&descAlignY=55&descSize=18&descColor=00FF9C" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Itsscamtga&fontSize=60&fontColor=39FF14&fontAlignY=40&animation=fadeIn" width="100%"/>
+
+<h3>🐍 Python Developer &nbsp;|&nbsp; Automation & Bot Engineer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=%3E+Building+Telegram+bots+that+run+on+autopilot;%3E+Scraping+data+from+100%2B+websites;%3E+Automating+bulk+upload%2Fdownload+pipelines;%3E+Shipping+REST+APIs+with+Flask+%26+FastAPI" />
 
@@ -78,6 +80,20 @@ Full-stack educational websites built to help students access resources faster.
 </td>
 </tr>
 </table>
+
+<br>
+
+## 📌 Featured Repositories
+
+<div align="center">
+
+[![bull-bear-game](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=bull-bear-game&theme=radical&hide_border=true)](https://github.com/Itsscamtga/bull-bear-game)
+[![comment_clash](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=comment_clash&theme=radical&hide_border=true)](https://github.com/Itsscamtga/comment_clash)
+
+[![eco_login](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=eco_login&theme=radical&hide_border=true)](https://github.com/Itsscamtga/eco_login)
+[![final-zip-heroku](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=final-zip-heroku&theme=radical&hide_border=true)](https://github.com/Itsscamtga/final-zip-heroku)
+
+</div>
 
 <br>
 
