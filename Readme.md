@@ -101,10 +101,10 @@ Full-stack educational websites built to help students access resources faster.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Itsscamtga&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsscamtga&layout=pie&theme=radical&hide_border=true"/>
+<img height="165" src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/stats.svg"/>
+<img height="165" src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/top-langs.svg"/>
 
-<img src="https://streak-stats.demolab.com/?user=Itsscamtga&theme=radical&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/streak.svg"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsscamtga&theme=react-dark&hide_border=true" width="90%"/>
 
@@ -116,7 +116,7 @@ Full-stack educational websites built to help students access resources faster.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Itsscamtga&theme=radical&no-bg=true&row=1&column=7&margin-w=8"/>
+<img src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/trophies.svg"/>
 
 </div>
 
