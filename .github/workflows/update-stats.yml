@@ -35,10 +35,12 @@ jobs:
           curl -sL "https://streak-stats.demolab.com/?user=Itsscamtga&theme=radical&hide_border=true" -o assets/streak.svg.tmp
           grep -q "<svg" assets/streak.svg.tmp && mv assets/streak.svg.tmp assets/streak.svg || (echo "⚠️ streak.svg fetch failed, keeping old version" && rm -f assets/streak.svg.tmp)
 
-      - name: Download trophies
-        run: |
-          curl -sL "https://github-profile-trophy.vercel.app/?username=Itsscamtga&theme=radical&no-bg=true&row=1&column=7&margin-w=8" -o assets/trophies.svg.tmp
-          grep -q "<svg" assets/trophies.svg.tmp && mv assets/trophies.svg.tmp assets/trophies.svg || (echo "⚠️ trophies.svg fetch failed, keeping old version" && rm -f assets/trophies.svg.tmp)
+      - name: Generate trophies (via Action, bypasses flaky public server)
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Itsscamtga
+          output_path: assets/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
