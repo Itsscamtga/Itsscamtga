@@ -83,17 +83,89 @@ Full-stack educational websites built to help students access resources faster.
 
 <br>
 
+## 📌 Featured Repositories
+
+<div align="center">
+
+[![bull-bear-game](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=bull-bear-game&theme=radical&hide_border=true)](https://github.com/Itsscamtga/bull-bear-game)
+[![comment_clash](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=comment_clash&theme=radical&hide_border=true)](https://github.com/Itsscamtga/comment_clash)
+
+[![eco_login](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=eco_login&theme=radical&hide_border=true)](https://github.com/Itsscamtga/eco_login)
+[![final-zip-heroku](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=final-zip-heroku&theme=radical&hide_border=true)](https://github.com/Itsscamtga/final-zip-heroku)
+
+</div>
+
+<br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Itsscamtga&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsscamtga&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsscamtga&layout=pie&theme=radical&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsscamtga&theme=radical&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsscamtga&theme=react-dark&hide_border=true" width="90%"/>
+
+</div>
+
+<br>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Itsscamtga&theme=radical&no-bg=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/output/github-snake.svg" width="90%"/>
+
+</div>
+
+> ⚠️ **Setup needed:** the snake animation isn't auto-generated — you add a GitHub Action once and it builds itself daily. I've included the workflow file below.
+
+<br>
+
+### ⏱️ WakaTime Stats
+
+<div align="center">
+
+<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="Total time coded"/>
+
+</div>
+
+> ⚠️ **Setup needed:** install the [WakaTime extension](https://wakatime.com/) in your code editor, connect your GitHub, then replace `YOUR_WAKATIME_USER_ID` above with your ID from your WakaTime profile settings.
+
+<br>
+
+### ⭐ Repo Stats
+
+<div align="center">
+
+| Repository | Language | Stars | Forks |
+|---|---|---|---|
+| [bull-bear-game](https://github.com/Itsscamtga/bull-bear-game) | TypeScript | ![Stars](https://img.shields.io/github/stars/Itsscamtga/bull-bear-game?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/bull-bear-game?style=flat-square&color=39FF14) |
+| [comment_clash](https://github.com/Itsscamtga/comment_clash) | TypeScript | ![Stars](https://img.shields.io/github/stars/Itsscamtga/comment_clash?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/comment_clash?style=flat-square&color=39FF14) |
+| [eco_login](https://github.com/Itsscamtga/eco_login) | Python | ![Stars](https://img.shields.io/github/stars/Itsscamtga/eco_login?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/eco_login?style=flat-square&color=39FF14) |
+| [final-zip-heroku](https://github.com/Itsscamtga/final-zip-heroku) | Python | ![Stars](https://img.shields.io/github/stars/Itsscamtga/final-zip-heroku?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/final-zip-heroku?style=flat-square&color=39FF14) |
+
+</div>
+
+<br>
+
+### 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </div>
 
