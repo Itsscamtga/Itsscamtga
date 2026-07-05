@@ -34,15 +34,20 @@ me.say_hi()
 ### ⚙️ Tech Arsenal
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFE873"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-306998?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FLLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
 
@@ -55,7 +60,7 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🤖 Telegram Bot Automation
-End-to-end pipelines that download, process, and bulk-upload data to Telegram channels — zero manual work, fully scheduled.
+End-to-end pipelines that download, process, and bulk-upload data to Telegram channels — built with **Pyrogram** and the Telegram Bot API, zero manual work, fully scheduled.
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +74,7 @@ Scrapers built and deployed across **100+ websites**, handling dynamic content, 
 <td width="50%" valign="top">
 
 ### ⚡ Backend & REST APIs
-Production-ready APIs using **Flask** and **FastAPI** — auth, databases, and clean architecture.
+Production-ready APIs using **Flask** and **FastAPI**, backed by **MongoDB** and **Supabase** for data storage — auth, databases, and clean architecture.
 
 </td>
 <td width="50%" valign="top">
