@@ -134,43 +134,6 @@ Full-stack educational websites built to help students access resources faster.
 
 <br>
 
-### ⏱️ WakaTime Stats
-
-<div align="center">
-
-<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="Total time coded"/>
-
-</div>
-
-> ⚠️ **Setup needed:** install the [WakaTime extension](https://wakatime.com/) in your code editor, connect your GitHub, then replace `YOUR_WAKATIME_USER_ID` above with your ID from your WakaTime profile settings.
-
-<br>
-
-### ⭐ Repo Stats
-
-<div align="center">
-
-| Repository | Language | Stars | Forks |
-|---|---|---|---|
-| [bull-bear-game](https://github.com/Itsscamtga/bull-bear-game) | TypeScript | ![Stars](https://img.shields.io/github/stars/Itsscamtga/bull-bear-game?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/bull-bear-game?style=flat-square&color=39FF14) |
-| [comment_clash](https://github.com/Itsscamtga/comment_clash) | TypeScript | ![Stars](https://img.shields.io/github/stars/Itsscamtga/comment_clash?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/comment_clash?style=flat-square&color=39FF14) |
-| [eco_login](https://github.com/Itsscamtga/eco_login) | Python | ![Stars](https://img.shields.io/github/stars/Itsscamtga/eco_login?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/eco_login?style=flat-square&color=39FF14) |
-| [final-zip-heroku](https://github.com/Itsscamtga/final-zip-heroku) | Python | ![Stars](https://img.shields.io/github/stars/Itsscamtga/final-zip-heroku?style=flat-square&color=39FF14) | ![Forks](https://img.shields.io/github/forks/Itsscamtga/final-zip-heroku?style=flat-square&color=39FF14) |
-
-</div>
-
-<br>
-
-### 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</div>
-
-<br>
-
 ## 📫 Let's Connect
 
 <div align="center">
