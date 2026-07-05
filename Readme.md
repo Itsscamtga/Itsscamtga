@@ -83,19 +83,6 @@ Full-stack educational websites built to help students access resources faster.
 
 <br>
 
-## 📌 Featured Repositories
-
-<div align="center">
-
-[![bull-bear-game](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=bull-bear-game&theme=radical&hide_border=true)](https://github.com/Itsscamtga/bull-bear-game)
-[![comment_clash](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=comment_clash&theme=radical&hide_border=true)](https://github.com/Itsscamtga/comment_clash)
-
-[![eco_login](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=eco_login&theme=radical&hide_border=true)](https://github.com/Itsscamtga/eco_login)
-[![final-zip-heroku](https://github-readme-stats.vercel.app/api/pin/?username=Itsscamtga&repo=final-zip-heroku&theme=radical&hide_border=true)](https://github.com/Itsscamtga/final-zip-heroku)
-
-</div>
-
-<br>
 
 ## 📊 GitHub Analytics
 
