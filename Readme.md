@@ -99,15 +99,6 @@ Full-stack educational websites built to help students access resources faster.
 
 <br>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/trophies.svg"/>
-
-</div>
-
-<br>
 
 ### 🐍 Contribution Snake
 
