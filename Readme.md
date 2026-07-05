@@ -104,7 +104,7 @@ Full-stack educational websites built to help students access resources faster.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Itsscamtga&show_icons=true&theme=radical&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsscamtga&layout=pie&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsscamtga&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Itsscamtga&theme=radical&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsscamtga&theme=react-dark&hide_border=true" width="90%"/>
 
