@@ -22,19 +22,23 @@ jobs:
 
       - name: Download stats card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=Itsscamtga&show_icons=true&theme=radical&hide_border=true" -o assets/stats.svg
+          curl -sL "https://github-readme-stats.vercel.app/api?username=Itsscamtga&show_icons=true&theme=radical&hide_border=true" -o assets/stats.svg
+          grep -q "<svg" assets/stats.svg || echo "⚠️ stats.svg fetch failed, keeping old version" 
 
       - name: Download top languages card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Itsscamtga&layout=pie&theme=radical&hide_border=true" -o assets/top-langs.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=Itsscamtga&layout=pie&theme=radical&hide_border=true" -o assets/top-langs.svg.tmp
+          grep -q "<svg" assets/top-langs.svg.tmp && mv assets/top-langs.svg.tmp assets/top-langs.svg || (echo "⚠️ top-langs.svg fetch failed, keeping old version" && rm -f assets/top-langs.svg.tmp)
 
       - name: Download streak stats
         run: |
-          curl -s "https://streak-stats.demolab.com/?user=Itsscamtga&theme=radical&hide_border=true" -o assets/streak.svg
+          curl -sL "https://streak-stats.demolab.com/?user=Itsscamtga&theme=radical&hide_border=true" -o assets/streak.svg.tmp
+          grep -q "<svg" assets/streak.svg.tmp && mv assets/streak.svg.tmp assets/streak.svg || (echo "⚠️ streak.svg fetch failed, keeping old version" && rm -f assets/streak.svg.tmp)
 
       - name: Download trophies
         run: |
-          curl -s "https://github-profile-trophy.vercel.app/?username=Itsscamtga&theme=radical&no-bg=true&row=1&column=7&margin-w=8" -o assets/trophies.svg
+          curl -sL "https://github-profile-trophy.vercel.app/?username=Itsscamtga&theme=radical&no-bg=true&row=1&column=7&margin-w=8" -o assets/trophies.svg.tmp
+          grep -q "<svg" assets/trophies.svg.tmp && mv assets/trophies.svg.tmp assets/trophies.svg || (echo "⚠️ trophies.svg fetch failed, keeping old version" && rm -f assets/trophies.svg.tmp)
 
       - name: Commit and push if changed
         run: |
