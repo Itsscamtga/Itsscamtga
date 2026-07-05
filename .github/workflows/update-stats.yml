@@ -1,0 +1,45 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:        # allows manual run from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download stats card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=Itsscamtga&show_icons=true&theme=radical&hide_border=true" -o assets/stats.svg
+
+      - name: Download top languages card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Itsscamtga&layout=pie&theme=radical&hide_border=true" -o assets/top-langs.svg
+
+      - name: Download streak stats
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=Itsscamtga&theme=radical&hide_border=true" -o assets/streak.svg
+
+      - name: Download trophies
+        run: |
+          curl -s "https://github-profile-trophy.vercel.app/?username=Itsscamtga&theme=radical&no-bg=true&row=1&column=7&margin-w=8" -o assets/trophies.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update profile stats"
+          git push
