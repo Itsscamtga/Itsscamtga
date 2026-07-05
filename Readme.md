@@ -88,9 +88,6 @@ Full-stack educational websites built to help students access resources faster.
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/stats.svg"/>
-<img height="165" src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/top-langs.svg"/>
-
 <img src="https://raw.githubusercontent.com/Itsscamtga/Itsscamtga/main/assets/streak.svg"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsscamtga&theme=react-dark&hide_border=true" width="90%"/>
